@@ -54,7 +54,7 @@ O sistema segue arquitetura Full Stack com API REST.
 ![Dashboard](gifsgithub-ignore/dashboard.gif)
 # 👨‍💻 Desenvolvido por DevDavid
 ## Full Stack Developer focado em desenvolvimento de aplicações web modernas.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-nakahara-8a5132320/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/woo_d4vid)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@davidbuilds1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-nakahara-8a5132320/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:devdavidnakahara@gmail.com)
