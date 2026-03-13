@@ -75,7 +75,7 @@ O sistema segue arquitetura Full Stack com API REST.
 
 # 🖼 Demonstração
 
-# Criação de conta 
+# Criação de conta: Deletar / Editar
 ![Conta](gifsgithub-ignore/conta.gif)
 -
 # Transaçao: Deposito / Saque
