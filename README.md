@@ -48,20 +48,20 @@ A aplicação está disponível online:
 - O sistema segue arquitetura Full Stack com API REST.
 
 ## Fluxo da aplicação:
-1️ Usuário acessa o frontend
-2️⃣ Frontend consome a API REST
-3️⃣ Backend processa regras de negócio
-4️⃣ Dados são persistidos no banco
-5️⃣ Informações retornam para exibição na interface
+- 1️ Usuário acessa o frontend
+- 2️⃣ Frontend consome a API REST
+- 3️⃣ Backend processa regras de negócio
+- 4️⃣ Dados são persistidos no banco
+- 5️⃣ Informações retornam para exibição na interface
 
 ---
 
 # 📦 Funcionalidades
-✔ Autenticação com JWT
-✔ Gestão de contas financeiras
-✔ Registro de transações
-✔ Dashboard com gráficos financeiros
-✔ Histórico de movimentações
+- ✔ Autenticação com JWT
+- ✔ Gestão de contas financeiras
+- ✔ Registro de transações
+- ✔ Dashboard com gráficos financeiros
+- ✔ Histórico de movimentações
 
 ---
 
