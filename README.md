@@ -78,6 +78,8 @@ O sistema segue arquitetura Full Stack com API REST.
 ![Conta](gifsgithub-ignore/conta.gif)
 -
 ![Criando Transação](gifsgithub-ignore/transacao.gif)
+-
+![Dashboard](gifsgithub-ignore/dashboard.gif)
 
 
 
