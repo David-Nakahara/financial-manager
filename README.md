@@ -5,13 +5,15 @@ O MoneyMind é uma aplicação Full Stack de gestão financeira, desenvolvida pa
 
 A plataforma permite acompanhar receitas e despesas, mantendo um histórico organizado e oferecendo visualização de dados através de gráficos.
 
+![Dashboard](gifsgithub-ignore/dashboard.gif)
+
 
 # 🌐 Demonstração Online
 
 A aplicação está disponível online:
 
 # 🔗ACESSO https://financialgestor.netlify.app
-![Dashboard](gifsgithub-ignore/dashboard.gif)
+
 
 ## ⚠️  O backend está hospedado na plataforma Render em plano gratuito, Após períodos de inatividade, o servidor entra em modo de hibernação e pode levar alguns segundos para responder à primeira requisição enquanto é reativado. ⚠️
 
