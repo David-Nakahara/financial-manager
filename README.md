@@ -70,8 +70,14 @@ A aplicação está disponível online:
 ### Criação de conta: Deletar / Editar
 ![Conta](gifsgithub-ignore/conta.gif)
 
+---
+
+
 ### Transação: Depósito / Saque
 ![Criando Transação](gifsgithub-ignore/transacao.gif)
+
+---
+
 
 ### Dashboard do Sistema
 ![Dashboard](gifsgithub-ignore/dashboard.gif)
