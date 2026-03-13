@@ -45,10 +45,10 @@ A aplicação está disponível online:
 ---
 
 # 🧠 Arquitetura
-O sistema segue arquitetura Full Stack com API REST.
+- O sistema segue arquitetura Full Stack com API REST.
 
 ## Fluxo da aplicação:
-1️⃣ Usuário acessa o frontend
+1️ Usuário acessa o frontend
 2️⃣ Frontend consome a API REST
 3️⃣ Backend processa regras de negócio
 4️⃣ Dados são persistidos no banco
