@@ -75,9 +75,14 @@ O sistema segue arquitetura Full Stack com API REST.
 
 # 🖼 Demonstração
 
-
-![Criando Transação](gifsgithub-ignore/transacao.gif)
+# Criação de conta: Deletar / Editar
 ![Conta](gifsgithub-ignore/conta.gif)
+-
+# Transaçao: Deposito / Saque
+![Criando Transação](gifsgithub-ignore/transacao.gif)
+-
+# Dashboard do Sistema
+![Dashboard](gifsgithub-ignore/dashboard.gif)
 
 
 
