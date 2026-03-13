@@ -10,6 +10,8 @@ A plataforma permite acompanhar receitas e despesas, mantendo um histórico orga
 
 ![Dashboard](gifsgithub-ignore/dashboard.gif)
 
+---
+
 # 🌐 Demonstração Online
 A aplicação está disponível online:
 
