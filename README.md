@@ -84,7 +84,7 @@ A aplicação está disponível online:
 
 ---
 
-# 👨‍💻 Desenvolvido por DevDavid
+# 👨‍💻 Desenvolvido por DevD4vid
 ## Full Stack Developer focado em desenvolvimento de aplicações web modernas.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/woo_d4vid)
